@@ -7,4 +7,4 @@ A simple Task Manager app built with Node.js, Express, EJS, MongoDB, and Mongoos
 Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/task-manager-app.git
+   git clone https://github.com/adarsh-yadav08/Task-Manager.git
